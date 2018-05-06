@@ -12,7 +12,7 @@ class Movie(models.Model):
         (RATED_G, 'G - General Audiences'),
         (RATED_PG,
          'PG - Parental Guidance'
-         'Suggested'),
+         ' Suggested'),
         (RATED_R, 'R - Restricted'),
     )
 
